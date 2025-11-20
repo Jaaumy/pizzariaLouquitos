@@ -112,9 +112,9 @@ Erro: NullPointer em telas
 Causa: Componente não inicializado.
 Solução: Verifique se os componentes Swing foram instanciados antes de serem exibidos.
 
-8. AUTOR
+8. AUTORES
 
-Desenvolvido por João Pedro.
+Desenvolvido por João Pedro, Gabriel Nascimento, Davi Delfino, Pedro Canuto, André Nascimento, Bruno 
 
 Projeto criado para fins acadêmicos, demonstrando domínio em:
 - Estruturas de Dados e Orientação a Objetos.
